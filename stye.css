@@ -7,6 +7,11 @@
     font-family: "Poppins", 'sans-serif';
 }
 
+p{
+  tedt-align:justify;
+
+}
+
 body{
     background-color: #081b29;
 }
@@ -325,7 +330,6 @@ body{
         color: #ededed;
         margin-bottom: 10%;
         font-size: 14px;
-        text-align:justify;
         font-weight:400; 
     }
     /* ---- Home-1 ----*/
